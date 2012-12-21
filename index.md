@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-tagline: Supporting tagline
+title: 最近文章
+tagline: lua,gtk,qt,python
 ---
 {% include JB/setup %}
 
