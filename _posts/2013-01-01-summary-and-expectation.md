@@ -2,7 +2,7 @@
 layout: post
 title: "2012总结,2013展望"
 description: ""
-category:summary
+category:
 tags: [总结]
 ---
 {% include JB/setup %}
